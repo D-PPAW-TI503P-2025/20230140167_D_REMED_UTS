@@ -34,6 +34,14 @@ HOME
 ADMIN
 <img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/77cf5abd-7164-4e0d-8a26-be52dc677c1c" />
 
+TAMBAH BUKU
+<img width="1365" height="671" alt="image" src="https://github.com/user-attachments/assets/303ec2bd-330a-4c0a-8800-848c76266044" />
+EDIT BUKU
+<img width="1365" height="675" alt="image" src="https://github.com/user-attachments/assets/7828d532-3389-4bdd-86c3-10c9ec9f2283" />
+HAPUS BUKU
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/099e7afa-289c-465d-9f9e-11dc5ec57509" />
+
+
 Add buku dengan validasi nama author tidak boleh kosong
 <img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/8f408cb6-f003-4034-9d3b-52ee701d8999" />
 
@@ -46,6 +54,8 @@ USER
 <img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/be0224f3-abcc-4fec-9086-aaf67806a96d" />
 
 <img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/6ce8cff4-9c36-4043-a945-9413507925c4" />
+<img width="1365" height="668" alt="image" src="https://github.com/user-attachments/assets/7d656abe-e558-468e-b5db-b7ee86733bbb" />
+
 
 
 
