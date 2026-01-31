@@ -26,14 +26,26 @@ Tabel Database Borrow
 
 
 TAMPILAN WEB
-Home
+
+HOME
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9da9bd4d-e81b-4aa2-8f60-84bb884b3324" />
 
-Admin
-<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/d5408102-1280-409c-b9e9-c20ee8af5ffd" />
 
-User
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ee81a065-2ef9-4687-99a8-44862745a788" />
+ADMIN
+<img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/77cf5abd-7164-4e0d-8a26-be52dc677c1c" />
+
+Add buku dengan validasi nama author tidak boleh kosong
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/8f408cb6-f003-4034-9d3b-52ee701d8999" />
+Add buku dengan validasi judul buku tidak boleh kosong
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/c383b930-452f-4ba1-9958-eec5273df662" />
+
+
+
+USER
+<img width="1365" height="685" alt="image" src="https://github.com/user-attachments/assets/edaab65c-7208-4e56-892d-0affe4e9cb85" />
+<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/6ce8cff4-9c36-4043-a945-9413507925c4" />
+
+
 
 
 
