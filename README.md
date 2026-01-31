@@ -25,6 +25,17 @@ Tabel Database Borrow
 
 
 
+TAMPILAN WEB
+Home
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/9da9bd4d-e81b-4aa2-8f60-84bb884b3324" />
+
+Admin
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/d5408102-1280-409c-b9e9-c20ee8af5ffd" />
+
+User
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ee81a065-2ef9-4687-99a8-44862745a788" />
+
+
 
 
 
