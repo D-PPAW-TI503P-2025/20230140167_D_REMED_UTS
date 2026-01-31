@@ -36,13 +36,15 @@ ADMIN
 
 Add buku dengan validasi nama author tidak boleh kosong
 <img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/8f408cb6-f003-4034-9d3b-52ee701d8999" />
+
 Add buku dengan validasi judul buku tidak boleh kosong
 <img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/c383b930-452f-4ba1-9958-eec5273df662" />
 
 
 
 USER
-<img width="1365" height="685" alt="image" src="https://github.com/user-attachments/assets/edaab65c-7208-4e56-892d-0affe4e9cb85" />
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/be0224f3-abcc-4fec-9086-aaf67806a96d" />
+
 <img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/6ce8cff4-9c36-4043-a945-9413507925c4" />
 
 
